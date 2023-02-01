@@ -1,8 +1,6 @@
 # Welcome to [Ethereal Engine](https://github.com/etherealengine)
 [EtherealEngine.org](https://www.etherealengine.org/)
 
-Formerly XR Engine by [XRFoundation](https://github.com/xrfoundation) Open Collective
-
 ## [Documenation](https://xrfoundation.github.io/ethereal-engine-docs/)
 
 #### Getting Started
