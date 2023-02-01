@@ -4,8 +4,8 @@
 ## [Documenation](https://xrfoundation.github.io/ethereal-engine-docs/)
 
 #### Getting Started
-## [Download Control Center](https://github.com/XRFoundation/XREngine-Control-Center/releases/tag/v0.0.13)
-#### [Learn More](https://github.com/XRFoundation/XREngine-Control-Center/releases/tag/v0.0.13)
+## [Download Control Center](https://github.com/XRFoundation/XREngine-Control-Center/releases/)
+[Control Center Documentation](https://github.com/XRFoundation/XREngine-Control-Center/)
 
 ## Using another game engine already?
 
