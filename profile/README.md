@@ -1,7 +1,7 @@
 # Welcome to [Ethereal Engine](https://github.com/etherealengine)
 [EtherealEngine.org](https://www.etherealengine.org/)
 
-## [Documenation](https://xrfoundation.github.io/ethereal-engine-docs/)
+## [Documentation](https://xrfoundation.github.io/ethereal-engine-docs/)
 
 #### Getting Started
 ## [Download Control Center](https://github.com/XRFoundation/XREngine-Control-Center/releases/)
