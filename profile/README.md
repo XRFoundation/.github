@@ -4,7 +4,7 @@
 ## [Documentation](https://etherealengine.github.io/ethereal-engine-docs/)
 
 #### Getting Started
-## [Download Control Center](https://github.com/etherealengine/XREngine-Control-Center/releases/)
+## [Download Control Center](https://github.com/EtherealEngine/etherealengine-control-center/releases)
 [Control Center Documentation](https://github.com/etherealengine/XREngine-Control-Center/)
 
 ## Using another game engine already?
