@@ -1,4 +1,4 @@
-# Welcome to [Ethereal Engine](https://github.com/etherealengine)
+# NOW AT [github.com/etherealengine - Ethereal Engine](https://github.com/etherealengine/etherealengine)
 [EtherealEngine.org](https://www.etherealengine.org/)
 
 ## [Documentation](https://etherealengine.github.io/ethereal-engine-docs/)
